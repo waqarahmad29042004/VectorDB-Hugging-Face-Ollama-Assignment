@@ -1,0 +1,1 @@
+# VectorDB-Hugging-Face-Ollama-Assignment
